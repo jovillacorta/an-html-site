@@ -79,7 +79,37 @@ img{
 }
 
 
+.proj-title{
+    margin: 0 auto;
+    padding-top: 150px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-transform: uppercase;
+}
 
+.proj-title h1{
+    font-size: 60px;
+}
+
+.proj-title h2{
+    font-size: 40px;
+}
+
+.proj-description{
+    width: 83%;
+    margin: 0 auto;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+.proj-description img{
+    width: 67%;
+    margin: 0 auto;
+    display: block;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
 
 .files2col{
     width: 100%;
